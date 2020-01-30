@@ -1,7 +1,7 @@
 {
     "particles": {
       "number": {
-        "value": 50
+        "value": 60
 
       },
       "color": {
@@ -51,9 +51,9 @@
       },
       "move": {
         "enable": true,
-        "speed": 12,
+        "speed": 15,
         "direction": "none",
-        "random": false,
+        "random": true,
         "straight": false,
         "out_mode": "out",
         "bounce": false,

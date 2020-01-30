@@ -68,7 +68,7 @@
         <div id="home-content-box">
             <div id="home-content-box-inner" class="text-center">
                 <div id="home-heading" class="animated zoomIn">
-                    <h3> Hi,I am Mushi <br> know about me, Sign in to play games and post notes
+                    <h3> Hi,I am Mushfique <br> know about me, Sign in to play games and post notes
                     </h3>
                 </div>
                 <div id="home-btn" class="animated zoomIn">
